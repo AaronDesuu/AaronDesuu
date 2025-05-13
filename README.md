@@ -58,7 +58,7 @@
 
 ## 📊 GitHub スタッツ:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaronDesuu&show_icons=true&hide_title=true&hide=prs&theme=radical)
 
 ---
 

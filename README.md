@@ -35,6 +35,16 @@
 
 ---
 
+## 🖼️ Pokémon カード紹介
+
+### こちらは私の好きなポケモンカードです！✨
+
+![Pokémon Card](https://www.pokemon-card.com/assets/images/card_images/large/SV-P/047492_P_KODAKKU.jpg)
+
+---
+
+---
+
 ## 🚀 主なプロジェクト:
 
 ### [プロジェクト名 1](リンク)

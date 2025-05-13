@@ -2,13 +2,15 @@
 
 私のGitHubプロファイルへようこそ！私は**Java**、**Python**、**Web開発**の技術に情熱を持っています。現在、日本の企業に入社するために準備をしています。空いている時間には、新しいフレームワークを学んだり、オープンソースのプロジェクトに貢献したりしています。
 
+![Background GIF](https://media.giphy.com/media/xT0Gqd0hAq8Tr9AZk0/giphy.gif) <!-- Example of a background GIF -->
+
 ---
 
 ## 🌱 自己紹介
 - 🔭 現在、**メイテック研修** に取り組んでいます。
 - 🌱 学んでいる技術: **TypeScript**
 - 💬 **Java**、**Python**、**React**、**HTML/CSS**、**Web開発**について話すのが得意です。
-- 📫 お問い合わせは: [あなたのメールアドレスまたはLinkedIn]
+- 📫 お問い合わせは: julio-a@meitec-grp.com
 
 ---
 

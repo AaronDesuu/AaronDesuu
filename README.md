@@ -2,7 +2,6 @@
 
 私のGitHubプロファイルへようこそ！私は**Java**、**Python**、**Web開発**の技術に情熱を持っています。現在、日本の企業に入社するために準備をしています。空いている時間には、新しいフレームワークを学んだり、オープンソースのプロジェクトに貢献したりしています。
 
-![Background GIF](https://media.giphy.com/media/xT0Gqd0hAq8Tr9AZk0/giphy.gif) <!-- Example of a background GIF -->
 
 ---
 
@@ -77,7 +76,7 @@
 
 ## 🔥 人気のリポジトリ:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaronDesuu&layout=compact)](https://github.com/your-username)
 
 ---
 

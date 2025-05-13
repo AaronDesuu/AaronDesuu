@@ -106,4 +106,5 @@ _モチベーションを保ちながらコードを書こう！_
 
 ---
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!-- 必要に応じて、他のコンテンツのプレースホルダを追加 -->
